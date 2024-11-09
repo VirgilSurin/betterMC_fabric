@@ -1,0 +1,13 @@
+name = "TCDCommons API"
+filename = "tcdcommons-3.12.4+fabric-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "413ba400bf5d217b82b8248f858f73f74f21f3ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5868210
+project-id = 711539

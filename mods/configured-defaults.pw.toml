@@ -1,0 +1,13 @@
+name = "Configured Defaults [Forge & Fabric]"
+filename = "ConfiguredDefaults-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c08adeac101863e130b12acc38eb4553d3a6ba5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5734079
+project-id = 930131

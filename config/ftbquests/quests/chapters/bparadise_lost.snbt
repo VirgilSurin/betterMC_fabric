@@ -1,0 +1,150 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bparadise_lost"
+	group: "59C90AA1B128306B"
+	icon: {
+		id: "minecraft:glowstone"
+	}
+	id: "5C6319CB41625714"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3C390BBD42C12E1F"
+			rewards: [{
+				id: "373BCCC369E85BE0"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				dimension: "paradise_lost:paradise_lost"
+				icon: {
+					id: "minecraft:glowstone"
+				}
+				id: "6E7D28B63633F0A6"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "1A59C110227A5488"
+			rewards: [{
+				count: 12
+				id: "243809CB358BDA86"
+				item: {
+					count: 1
+					id: "paradise_lost:orange"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2139E4B765A3D40F"
+				item: { count: 1, id: "paradise_lost:levitator" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "23B0FF52405AC6D7"
+			rewards: [{
+				id: "69D47E672EEA61D1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "34825E28C3F2DCA5"
+				item: { count: 1, id: "paradise_lost:amadrys_noodles" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "002DDDA2B446B94F"
+			rewards: [{
+				count: 5
+				id: "238B600B88CA908A"
+				item: {
+					count: 1
+					id: "paradise_lost:moa_meat_cooked"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "paradise_lost:tame_moa"
+				criterion: ""
+				id: "64169396FBC74F51"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "309BE03F606A6533"
+			rewards: [{
+				id: "656E9C8C9EF38E4A"
+				item: {
+					count: 1
+					id: "paradise_lost:refined_surtrum"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D6BEAE4FDB51994"
+				item: { count: 1, id: "paradise_lost:refined_surtrum" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "1D91F5B33255BAAB"
+			rewards: [{
+				id: "6A4FB9E0DC7999AA"
+				item: {
+					count: 1
+					id: "paradise_lost:olvite"
+				}
+				random_bonus: 2
+				type: "item"
+			}]
+			tasks: [{
+				id: "085F6B422D627595"
+				item: { count: 1, id: "paradise_lost:olvite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C390BBD42C12E1F"]
+			id: "03327E5BAC40FF42"
+			rewards: [{
+				id: "41E033F340AA10C7"
+				item: {
+					count: 1
+					id: "paradise_lost:golden_amber"
+				}
+				random_bonus: 4
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A57335686173B71"
+				item: { count: 1, id: "paradise_lost:glazed_gold_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+	]
+}

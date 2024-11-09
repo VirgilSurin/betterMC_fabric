@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples (Fabric)"
+filename = "YungsBetterJungleTemples-1.21.1-Fabric-3.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4b72a5253c63d42b71e9cf9cea048f089dbc12a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812493
+project-id = 897678

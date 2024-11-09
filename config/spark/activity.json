@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1729932333458,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/EHHkU4Mq3C"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1728721431711,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HKoWhIOgnc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727356855645,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4KC99wMJwH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727356275218,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aGBQwe2scO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727356149197,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/7w9Wm5QKUF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727355954933,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/q3OtITa3WP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727354571044,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MMrfxYAIEM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SHXRKIEgg",
+      "uniqueId": "5b9d020f-5865-4cab-a0d0-57996265789e"
+    },
+    "time": 1727354398237,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IAPFsbLZcY"
+    }
+  }
+]

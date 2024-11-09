@@ -1,0 +1,13 @@
+name = "Unnamed Framework"
+filename = "u_framework-1.0.2+mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "148d1908f6232f6248af35a101a6c97aef5d6f76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5774379
+project-id = 1109805

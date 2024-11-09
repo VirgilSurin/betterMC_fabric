@@ -1,0 +1,13 @@
+name = "XaeroPlus"
+filename = "XaeroPlus-2.24.5+fabric-1.21-WM1.39.0-MM24.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e1e579f7666ced460542b6fa7713513dc43c0ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5863846
+project-id = 866084

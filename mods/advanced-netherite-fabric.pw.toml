@@ -1,0 +1,13 @@
+name = "Advanced Netherite (Fabric)"
+filename = "advancednetherite-fabric-2.1.6-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70c85d8827bf49dde335ba5f88ce1f3936859ecf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5610713
+project-id = 547881
