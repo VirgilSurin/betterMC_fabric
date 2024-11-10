@@ -1047,7 +1047,7 @@ hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "db59fb473803c5bae437297caaf5c165943baba9af162834d83c230eecbfdd4a"
+hash = "c25236a709eccacce06e47016b6f465d6a9d1f3272a43b7dae26c17699a1ded9"
 
 [[files]]
 file = "config/rightclickharvest.json5"
@@ -1339,7 +1339,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "ccf94dae6665bb587515d37c7d3bb525c5a8946e64740cf532e10590f4371057"
+hash = "2507bb8ac1dc6b8ae2ba37e2280dac140430806c83bad3dbb2292cea0435924a"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -2643,7 +2643,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ccf94dae6665bb587515d37c7d3bb525c5a8946e64740cf532e10590f4371057"
+hash = "2507bb8ac1dc6b8ae2ba37e2280dac140430806c83bad3dbb2292cea0435924a"
 
 [[files]]
 file = "pastel-shaders.pw.toml"
