@@ -2097,11 +2097,6 @@ hash = "df6c4d88edd4c9d8e570b389d6f1d6fa744503463c0e23c67001549f09644996"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "c294689fbe664f48a3887cf94af83bdd854fe3c5d314d3c75a3a3f53f4295faa"
-metafile = true
-
-[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "149744d5d8cbb06f11ab33f7a669311f3945bfda024b7ba1e2b659c17d6d08c0"
 metafile = true
